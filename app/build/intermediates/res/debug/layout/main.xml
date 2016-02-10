@@ -1,0 +1,54 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:stretchColumns="0,2"
+    tools:context=".MinesweeperGame">
+
+
+    <TableRow>
+        <TextView
+            android:layout_column="0"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_span="3"
+            android:padding="10dip"/>
+    </TableRow>
+
+    <TableRow>
+
+
+        <ImageButton android:id="@+id/new_game"
+            android:layout_column="1"
+            android:background="@drawable/new_game"
+            android:scaleType="center"
+            android:padding="5dip"
+            android:layout_width="150dp"
+            android:layout_height="45dp"/>
+
+
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_column="0"
+            android:layout_width="fill_parent"
+            android:layout_height="25dp"
+            android:layout_span="3"
+            android:padding="10dip"/>
+    </TableRow>
+
+    <TableRow>
+        <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/MineField"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="bottom"
+            android:stretchColumns="*"
+            android:layout_span="3"
+            android:padding="5dip" >
+        </TableLayout>
+    </TableRow>
+
+</TableLayout>
+<!-- From: file:/D:/MAP/MineSweeper2/MineSweeper2/app/src/main/res/layout/main.xml -->

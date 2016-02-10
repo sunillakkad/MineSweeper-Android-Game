@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sunilkumarlakkad/Desktop/GitHub/MineSweeper/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/new_game.jpg",
+        "source": "/Users/sunilkumarlakkad/Desktop/GitHub/MineSweeper/app/src/main/res/drawable-xxhdpi/new_game.jpg"
+    },
+    {
+        "merged": "/Users/sunilkumarlakkad/Desktop/GitHub/MineSweeper/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/square_grey.png",
+        "source": "/Users/sunilkumarlakkad/Desktop/GitHub/MineSweeper/app/src/main/res/drawable-xxhdpi/square_grey.png"
+    },
+    {
+        "merged": "/Users/sunilkumarlakkad/Desktop/GitHub/MineSweeper/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/sunilkumarlakkad/Desktop/GitHub/MineSweeper/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sunilkumarlakkad/Desktop/GitHub/MineSweeper/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/square_blue.png",
+        "source": "/Users/sunilkumarlakkad/Desktop/GitHub/MineSweeper/app/src/main/res/drawable-xxhdpi/square_blue.png"
+    }
+]
